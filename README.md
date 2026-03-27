@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subodh Madai</h1>
-<h3 align="center">A passionate developer from Nepal.</h3>
+<h3 align="center">A passionate full stack developer from Nepal.</h3>
 
 - 📫 How to reach me **jrffx86@gmail.com**
 -   🌐 Portfolio: [subodhmadai.vercel.app](https://subodhmadai.vercel.app/)
